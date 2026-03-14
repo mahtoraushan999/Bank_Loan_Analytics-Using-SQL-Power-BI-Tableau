@@ -218,6 +218,6 @@ It reflects real-world **data analyst workflows** and can be used for:
 
 # 👨‍💻 Author
 
-**Prince Soni**
+**Raushan Kumar**
 
 Aspiring **Data Analyst | SQL | Python | Power BI | Tableau**
